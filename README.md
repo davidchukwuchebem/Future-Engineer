@@ -23,7 +23,7 @@ Our proposed solution is a compact, sensor-equipped robot built using LEGO MINDS
 
 ---
 
-## 🔧 Hardware Overview
+## Hardware Overview
 
 | Component              | Quantity | Purpose                               |
 |------------------------|----------|----------------------------------------|
@@ -39,7 +39,7 @@ Sensor Placement:
 
 ---
 
-## 💻 Programming Strategy
+## Programming Strategy
 
 **Tool Used:** LEGO Education EV3 Classroom (Block-based Programming)
 
