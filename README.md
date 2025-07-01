@@ -42,7 +42,7 @@ Sensor Placement:
 
 ## Programming Strategy
 
-**Tool Used:** LEGO Education EV3 Classroom (Block-based Programming)
+**Tool Used:** LEGO MindStorm Ev3 (Block-based Programming)
 
 **Main Features:**
 - Sensor-driven loops and conditionals
