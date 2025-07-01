@@ -2,22 +2,22 @@
 A WRO Future Engineers project built using LEGO MINDSTORMS EV3, programmed with EV3 Classroom blocks. This autonomous robot uses ultrasonic sensors, motors, and logic to navigate and interact with its environment—designed to solve real-world problems through robotics and innovation.
 
 
-# 🤖 WRO Future Engineers 2025 — EV3 Autonomous Explorer
+# WRO Future Engineers 2025 — EV3 Autonomous Explorer
 
 **Category:** Future Engineers  
 **Project Title:** EV3 Autonomous Explorer  
-**Team Lead:** David Chukwuchebem  
-**Institution:** Ojo Senior High School, Lagos, Nigeria
+**Team Lead:** David Ahanotu  
+**Institution:** 6Thtouch academy
 
 ---
 
-## 🧩 Problem Statement
+## Problem Statement
 
 Modern urban and industrial environments require mobile robots capable of making real-time decisions to navigate tight and unpredictable spaces. In such scenarios, robots must operate independently with minimal human control, particularly in delivery, inspection, and search-and-rescue missions.
 
 ---
 
-## 💡 Our Solution: The EV3 Autonomous Explorer
+## Our Solution: The EV3 Autonomous Explorer
 
 Our proposed solution is a compact, sensor-equipped robot built using LEGO MINDSTORMS EV3 that autonomously navigates spaces using ultrasonic sensors and logical programming. The robot avoids obstacles, adjusts to environmental feedback, and can be modified for specific mission tasks — simulating a basic real-world autonomous service robot.
 
@@ -58,7 +58,7 @@ Sensor Placement:
 
 ---
 
-## 🧠 Innovation & Impact
+## Innovation & Impact
 
 - **Accessibility:** Built using accessible LEGO parts and block programming, making robotics approachable for students.
 - **Real-world Connection:** Mimics essential functions of autonomous delivery robots or inspection bots.
@@ -67,7 +67,7 @@ Sensor Placement:
 
 ---
 
-## 🚀 Future Improvements
+## Future Improvements
 
 - Add **color or gyro sensors** for improved precision and orientation tracking.
 - Design a **modular tool system** for different missions (e.g., package handling).
@@ -76,13 +76,13 @@ Sensor Placement:
 
 ---
 
-## 📸 Media & Demonstration
+## Media & Demonstration
 
 > *(Insert links or embedded images/videos here: robot photos, EV3 block screenshots, demo videos)*
 
 ---
 
-## 📚 References
+## References
 
 - LEGO Education EV3 Classroom
 - World Robot Olympiad Official Guide
@@ -90,7 +90,7 @@ Sensor Placement:
 
 ---
 
-## 🙌 Acknowledgements
+## Acknowledgements
 
 Huge thanks to:
 - **Our Teachers & Mentors** – for their guidance and encouragement
