@@ -76,7 +76,7 @@ Sensor Placement:
 
 ---
 
-## Media & Demonstration
+## Robot Side View
 
 ![Robot Front View](Robot%20Images/01.jpg)
 
