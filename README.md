@@ -78,7 +78,7 @@ Sensor Placement:
 
 ## Media & Demonstration
 
-> *(Insert links or embedded images/videos here: robot photos, EV3 block screenshots, demo videos)*
+![Robot Front View](Robot Images/01.jpg)
 
 ---
 
