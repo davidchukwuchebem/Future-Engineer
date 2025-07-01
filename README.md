@@ -7,7 +7,7 @@ A WRO Future Engineers project built using LEGO MINDSTORMS EV3, programmed with 
 **Category:** Future Engineers  
 **Project Title:** EV3 Autonomous Explorer  
 **Team Lead:** David Ahanotu  
-**Team member:** David Chuwuchebem
+**Team Lead:** David Chuwuchebem  
 **Institution:** 6Thtouch Academy
 
 ---
